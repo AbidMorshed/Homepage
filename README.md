@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abidmorshed22@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abid-al-morshed/](https://www.linkedin.com/in/abid-al-morshed/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abidalmorshed](https://www.linkedin.com/in/abidalmorshed)
 
 - ⚡ Fun fact **I can play guitar and a hobbyist videographer**
 
