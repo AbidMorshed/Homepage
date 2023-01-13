@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PCM based heat storage**
 
-- 💬 Ask me about **CFD, Machine learning, data analysis**
+- 💬 Ask me about **CFD, Machine Learning, Data Analysis**
 
 - 📫 How to reach me **abidmorshed22@gmail.com**
 
