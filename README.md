@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidmorshed&label=Profile%20views&color=0e75b6&style=flat" alt="abidmorshed" /> </p>
 
-- 🌱 I’m currently learning **PCM based heat storage**
+- 🌱 I’m currently learning about **Heat storage**
 
 - 💬 Ask me about **CFD, Machine Learning, Data Analysis**
 
