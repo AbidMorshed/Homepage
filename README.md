@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abidalmorshed](https://www.linkedin.com/in/abidalmorshed)
 
-- ⚡ Fun fact **I can play guitar and a hobbyist videographer**
+- ⚡ Fun fact **I am a hobbyist videographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
